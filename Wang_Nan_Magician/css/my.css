@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg-dark {
+  background-color: #020202 !important;
+}
+
+.margintop {
+	margin-top: 50px;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #37123c;
+  border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #ff4a1c;
+  border-color: #6c757d;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #37123c;
+  border-color: #007bff;
+}
+
+.nav-link {
+	color: #2ca58d !important;
+}
+
+.nav-link:hover {
+	color: #8cff98 !important;
+}
+
+h2 {
+	color: #2ca58d;
+}
+
+a {
+	color: #2ca58d;
+}
+
