@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*font-family: 'Inconsolata', monospace;*/
+
+
+.bg-primary {
+  background-image: url(../images/1920x500-FLASH-SALE.jpg) !important;
+	
+}
+
+.bg-dark {
+  background-color: #000 !important;
+}
+
+h2,p,h3 {
+	font-family: 'Inconsolata', monospace;
+}
+
+h3 {
+	text-align: center;
+}
+.lead1 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #000;
+  border-color: #6c757d;
+  margin: auto;
+}
+
+
+.x {margin-top:2%;}
+
+a {
+	color: black;
+}
+
