@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/*colors: #53d8fb;   #d7f9f1;  #3a606e;  #0f8b8d;  #00b295*/
+
+/*font-family: 'Montserrat', sans-serif;*/
+
+.bg-dark {
+  background-color: #3a606e !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #3a606e;
+  border-color: #3a606e;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+	font-family: 'Montserrat', sans-serif;
+	color: #0f8b8d;
+}
+
+.bg-saving {
+	background-color: #d7f9f1;
+	text-align: center;
+}
+
+
+p {
+	color: #3a606e;
+}
+
+a {
+	color: #53d8fb;
+}
+
+a:hover {
+
+	color: #0f8b8d;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #53d8fb !important;
+}
+
+.nav-link:hover, .nav-link:focus {
+  text-decoration: none;
+	color: #0f8b8d !important;
+	
+}
